@@ -1,0 +1,11 @@
+C:\Users\Manuel\source\repos\Ejercicio1PruebaML\bin\Debug\netcoreapp2.2\Ejercicio1PruebaML.deps.json
+C:\Users\Manuel\source\repos\Ejercicio1PruebaML\bin\Debug\netcoreapp2.2\Ejercicio1PruebaML.runtimeconfig.json
+C:\Users\Manuel\source\repos\Ejercicio1PruebaML\bin\Debug\netcoreapp2.2\Ejercicio1PruebaML.runtimeconfig.dev.json
+C:\Users\Manuel\source\repos\Ejercicio1PruebaML\bin\Debug\netcoreapp2.2\Ejercicio1PruebaML.dll
+C:\Users\Manuel\source\repos\Ejercicio1PruebaML\obj\Debug\netcoreapp2.2\Ejercicio1PruebaML.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\source\repos\Ejercicio1PruebaML\obj\Debug\netcoreapp2.2\Ejercicio1PruebaML.AssemblyInfoInputs.cache
+C:\Users\Manuel\source\repos\Ejercicio1PruebaML\obj\Debug\netcoreapp2.2\Ejercicio1PruebaML.AssemblyInfo.cs
+C:\Users\Manuel\source\repos\Ejercicio1PruebaML\obj\Debug\netcoreapp2.2\Ejercicio1PruebaML.csprojAssemblyReference.cache
+C:\Users\Manuel\source\repos\Ejercicio1PruebaML\bin\Debug\netcoreapp2.2\Ejercicio1PruebaML.pdb
+C:\Users\Manuel\source\repos\Ejercicio1PruebaML\obj\Debug\netcoreapp2.2\Ejercicio1PruebaML.dll
+C:\Users\Manuel\source\repos\Ejercicio1PruebaML\obj\Debug\netcoreapp2.2\Ejercicio1PruebaML.pdb
