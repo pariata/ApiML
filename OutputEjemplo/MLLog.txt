@@ -1,0 +1,303 @@
+******************** PRODUCTO#1 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA863267784
+Titulo del Producto : Monitor Dell Professional P2018h Led 20  Negro 100v/240v
+ID De La Categoria : MLA14407
+Nombre de la Categoria : MLA-COMPUTER_MONITORS
+******************** PRODUCTO#2 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA843116615
+Titulo del Producto : Monitor Dell P2419h Led 24  Negro 100v/240v
+ID De La Categoria : MLA14407
+Nombre de la Categoria : MLA-COMPUTER_MONITORS
+******************** PRODUCTO#3 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA906171057
+Titulo del Producto : Router Linksys Ea-series Ea6100  Negro 100v/240v
+ID De La Categoria : MLA430901
+Nombre de la Categoria : MLA-ROUTERS_AND_WIRELESS_SYSTEMS
+******************** PRODUCTO#4 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA884736096
+Titulo del Producto : Router Cisco Rv Series Rv340  Negro 100v/240v
+ID De La Categoria : MLA430901
+Nombre de la Categoria : MLA-ROUTERS_AND_WIRELESS_SYSTEMS
+******************** PRODUCTO#5 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA898898561
+Titulo del Producto : Repetidor, Router, Sistema Wi-fi Mesh Linksys Velop Wifi Intelligent Mesh  Blanco 100v/240v
+ID De La Categoria : MLA430901
+Nombre de la Categoria : MLA-ROUTERS_AND_WIRELESS_SYSTEMS
+******************** PRODUCTO#6 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA870594510
+Titulo del Producto : Access Point, Router Linksys Max-stream Ea7300  Negro 100v/240v
+ID De La Categoria : MLA430901
+Nombre de la Categoria : MLA-ROUTERS_AND_WIRELESS_SYSTEMS
+******************** PRODUCTO#7 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA876794922
+Titulo del Producto : Impresora Multifunción Lexmark Mb2546adwe Con Wifi 220v Gris Y Blanca
+ID De La Categoria : MLA1676
+Nombre de la Categoria : MLA-PRINTERS
+******************** PRODUCTO#8 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA884735971
+Titulo del Producto : Impresora Multifunción Lexmark Mb2442adwe Con Wifi 220v Gris Y Blanca
+ID De La Categoria : MLA1676
+Nombre de la Categoria : MLA-PRINTERS
+******************** PRODUCTO#9 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA907606600
+Titulo del Producto : Impresora Lexmark B2338dw Con Wifi 220v Gris Y Blanca
+ID De La Categoria : MLA1676
+Nombre de la Categoria : MLA-PRINTERS
+******************** PRODUCTO#10 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA838441150
+Titulo del Producto : Servidor Poweredge Dell T40 Xeon E3-2224 16gb 1tb Hd Gtia
+ID De La Categoria : MLA1649
+Nombre de la Categoria : MLA-DESKTOP_COMPUTERS
+******************** PRODUCTO#11 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA906671838
+Titulo del Producto : Notebook Dell Inspiron Amd Ryzen 5 16gb 256ssd + 1tb Win10
+ID De La Categoria : MLA1652
+Nombre de la Categoria : MLA-NOTEBOOKS
+******************** PRODUCTO#12 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA665986505
+Titulo del Producto : Servidor Dell T140 Xeon E3-2124 16gb 2tb Reemplazo T130
+ID De La Categoria : MLA1649
+Nombre de la Categoria : MLA-DESKTOP_COMPUTERS
+******************** PRODUCTO#13 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA625205834
+Titulo del Producto : Ups Apc 800va 6 T Estabilizador Y Protector De Tension Gtia Oficial 2 Años Bx800 Para Tv, Play, Equipos De Audio
+ID De La Categoria : MLA1720
+Nombre de la Categoria : MLA-STABILIZERS_AND_UPS
+******************** PRODUCTO#14 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA679000346
+Titulo del Producto : Ups Apc 800va 4t Estabilizador Y Protector De Tension Gtia Oficial 2 Años Simil Ideal Para Uso Gamer
+ID De La Categoria : MLA1720
+Nombre de la Categoria : MLA-STABILIZERS_AND_UPS
+******************** PRODUCTO#15 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA740540307
+Titulo del Producto : Servidor Poweredge Dell T40 Xeon E3-1225 8gb 1tb Hd Free Dos
+ID De La Categoria : MLA1649
+Nombre de la Categoria : MLA-DESKTOP_COMPUTERS
+******************** PRODUCTO#16 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA685442693
+Titulo del Producto : Switch Cisco 24 Puertos Gigabit Rack 10/100/1000
+ID De La Categoria : MLA1708
+Nombre de la Categoria : MLA-NETWORK_SWITCHES
+******************** PRODUCTO#17 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA896718634
+Titulo del Producto : Servidor Poweredge Dell T40 Xeon E3-2224 16gb 2tb Hd Gtia
+ID De La Categoria : MLA1649
+Nombre de la Categoria : MLA-DESKTOP_COMPUTERS
+******************** PRODUCTO#18 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA837839027
+Titulo del Producto : Notebook Laptop Dell I7 10g 32g 256ssd + 480ssd W10 Gforce
+ID De La Categoria : MLA1652
+Nombre de la Categoria : MLA-NOTEBOOKS
+******************** PRODUCTO#19 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA619999038
+Titulo del Producto : Ups Apc 550va 3 Tomas Gtia Oficial 2 Años Estabilizador Y Protector De Tension Con Ahorro De Energia
+ID De La Categoria : MLA1720
+Nombre de la Categoria : MLA-STABILIZERS_AND_UPS
+******************** PRODUCTO#20 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA696010903
+Titulo del Producto : Ups Apc Src2ki-ar 2000va Online Tower Src2ki
+ID De La Categoria : MLA1720
+Nombre de la Categoria : MLA-STABILIZERS_AND_UPS
+******************** PRODUCTO#21 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA862050665
+Titulo del Producto : Servidor Poweredge Dell T40 Intel E3-2224 16gb 1tb Hd Cuotas
+ID De La Categoria : MLA1649
+Nombre de la Categoria : MLA-DESKTOP_COMPUTERS
+******************** PRODUCTO#22 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA814217735
+Titulo del Producto : Servidor Dell T140 Xeon E3-2124 32gb 4tb Reemplazo T130
+ID De La Categoria : MLA1649
+Nombre de la Categoria : MLA-DESKTOP_COMPUTERS
+******************** PRODUCTO#23 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA673439018
+Titulo del Producto : Notebook Laptop Dell Inspiron I3 8gb 1tb 15,6 Fhd Ubuntu Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B
+ID De La Categoria : MLA1652
+Nombre de la Categoria : MLA-NOTEBOOKS
+******************** PRODUCTO#24 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA614270244
+Titulo del Producto : Ups Apc 1000va Para Pc Gamer Simil Bx1100 Bv1000i-ar Estabilizador Y Protector De Tension Gtia Oficial 2 Años
+ID De La Categoria : MLA1720
+Nombre de la Categoria : MLA-STABILIZERS_AND_UPS
+******************** PRODUCTO#25 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA678026676
+Titulo del Producto : Switch Cisco 24 Puertos 10/100 Rackeable No Adm Para Hogar Y Empresa - Garantia Oficial - Factura A Y B
+ID De La Categoria : MLA1708
+Nombre de la Categoria : MLA-NETWORK_SWITCHES
+******************** PRODUCTO#26 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA604049998
+Titulo del Producto : Ups Apc Easy Bv650i-ar 650va Gtia Oficial 2 Años Bv650
+ID De La Categoria : MLA1720
+Nombre de la Categoria : MLA-STABILIZERS_AND_UPS
+******************** PRODUCTO#27 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA910713865
+Titulo del Producto : Pc Dell I3 4gb 1tb Windows 10 Pro Vostro Gtia Oficial
+ID De La Categoria : MLA1649
+Nombre de la Categoria : MLA-DESKTOP_COMPUTERS
+******************** PRODUCTO#28 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA673321805
+Titulo del Producto : Ups Apc 1500va Estabilizador Y Protector De Tension - Alto Rendimiento Para Pc De Hogar Y Oficina Gtia 2años
+ID De La Categoria : MLA1720
+Nombre de la Categoria : MLA-STABILIZERS_AND_UPS
+******************** PRODUCTO#29 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA910712440
+Titulo del Producto : Pc Dell I3 4gb 1tb Windows 10 Pro Vostro Gtia Oficial
+ID De La Categoria : MLA1649
+Nombre de la Categoria : MLA-DESKTOP_COMPUTERS
+******************** PRODUCTO#30 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA696009826
+Titulo del Producto : Ups Apc 1000va Online Tower Gtia 2 Años
+ID De La Categoria : MLA1720
+Nombre de la Categoria : MLA-STABILIZERS_AND_UPS
+******************** PRODUCTO#31 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA685442543
+Titulo del Producto : Switch Cisco Sg110-24 24 Puertos Gigabit Rack (ex. Sg100-24)
+ID De La Categoria : MLA1708
+Nombre de la Categoria : MLA-NETWORK_SWITCHES
+******************** PRODUCTO#32 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA800415301
+Titulo del Producto : Servidor Dell T140 Xeon E3-2124 16gb 2tb Reemplazo T130
+ID De La Categoria : MLA1649
+Nombre de la Categoria : MLA-DESKTOP_COMPUTERS
+******************** PRODUCTO#33 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA701423768
+Titulo del Producto : Switch Cisco 8 Puertos Port 10/100/1000 Giga Sg100 Oferta Para Hogar Y Empresa - Garantia Oficial - Factura A Y B
+ID De La Categoria : MLA1708
+Nombre de la Categoria : MLA-NETWORK_SWITCHES
+******************** PRODUCTO#34 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA675284743
+Titulo del Producto : Router Cisco Rv160-k9-ar Cisco Rv160 Vpn Smb
+ID De La Categoria : MLA430901
+Nombre de la Categoria : MLA-ROUTERS_AND_WIRELESS_SYSTEMS
+******************** PRODUCTO#35 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA835614791
+Titulo del Producto : Sf250-48-k9-ar Switch 48p Cisco Sf250-48 10/100 Rack
+ID De La Categoria : MLA1708
+Nombre de la Categoria : MLA-NETWORK_SWITCHES
+******************** PRODUCTO#36 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA614270271
+Titulo del Producto : Estabilizador Ups Apc 900va Con Garantia Oficial Para Tv, Play, Equipos De Audio Y Pc Con Ahorro De Energia
+ID De La Categoria : MLA1720
+Nombre de la Categoria : MLA-STABILIZERS_AND_UPS
+******************** PRODUCTO#37 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA663213659
+Titulo del Producto : Notebook Laptop Dell Vostro I5 8gb 1tb 14 Win 10pro Teclado Con Ñ Gtia De Tienda Oficial - Factura A / B
+ID De La Categoria : MLA1652
+Nombre de la Categoria : MLA-NOTEBOOKS
+******************** PRODUCTO#38 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA835811366
+Titulo del Producto : Switch Cisco Sg220-26 Gigabit Administrable + 2 Sfp
+ID De La Categoria : MLA1708
+Nombre de la Categoria : MLA-NETWORK_SWITCHES
+******************** PRODUCTO#39 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA835812799
+Titulo del Producto : Switch Cisco Sg220-26p Smart Plus 26 Puertos Giga Poe Admin
+ID De La Categoria : MLA1708
+Nombre de la Categoria : MLA-NETWORK_SWITCHES
+******************** PRODUCTO#40 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA714578081
+Titulo del Producto : Switch 24p Cisco Sg250-26 Giga 10/100/1000 Sg250-26-k9
+ID De La Categoria : MLA1708
+Nombre de la Categoria : MLA-NETWORK_SWITCHES
+******************** PRODUCTO#41 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA609714711
+Titulo del Producto : Ups Apc Back-ups Pro 550va 230 Estabilizador Y Protector De Tensión Con Ahorro De Energia Gtia Oficial Br550
+ID De La Categoria : MLA1720
+Nombre de la Categoria : MLA-STABILIZERS_AND_UPS
+******************** PRODUCTO#42 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA609550688
+Titulo del Producto : Ups Apc Easy 500va Estabilizador Y Protector De Tension Con Ahorro De Energia Gtia Oficial 2 Años
+ID De La Categoria : MLA1720
+Nombre de la Categoria : MLA-STABILIZERS_AND_UPS
+******************** PRODUCTO#43 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA714545399
+Titulo del Producto : Switch Cisco Semi Admin 24 Puertos 10/100 2 Giga Sf220-24-k9
+ID De La Categoria : MLA1708
+Nombre de la Categoria : MLA-NETWORK_SWITCHES
+******************** PRODUCTO#44 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA903304030
+Titulo del Producto : Notebook Dell Vostro I5 15.6 16gb 1tb + 480 Ssd Ubuntu Ñ
+ID De La Categoria : MLA1652
+Nombre de la Categoria : MLA-NOTEBOOKS
+******************** PRODUCTO#45 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA609115444
+Titulo del Producto : Ups Apc De Alto Rendimiento 1200va Estabilizador Y Protector De Tension Garantía Oficial De 2 Años Ups
+ID De La Categoria : MLA1720
+Nombre de la Categoria : MLA-STABILIZERS_AND_UPS
+******************** PRODUCTO#46 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA791968195
+Titulo del Producto : Escaner Kodak S2040 Alta Velocidad 600dpi Duplex 5000 X Dia
+ID De La Categoria : MLA72721
+Nombre de la Categoria : MLA-SCANNERS
+******************** PRODUCTO#47 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA603776528
+Titulo del Producto : Ups Apc 1100va 6 Tomas Estabilizador Y Protector De Tension Gtia Oficial Para Pc Gamer Con Ahorro De Energia
+ID De La Categoria : MLA1720
+Nombre de la Categoria : MLA-STABILIZERS_AND_UPS
+******************** PRODUCTO#48 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA714624323
+Titulo del Producto : Switch 24p Cisco Sg350-28 10/100/1000 Sg350-28-k9
+ID De La Categoria : MLA1708
+Nombre de la Categoria : MLA-NETWORK_SWITCHES
+******************** PRODUCTO#49 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA692519735
+Titulo del Producto : Switch Cisco Sf110d-05 5 Puertos 10/100 Sf110 (ex Sf100d-05)
+ID De La Categoria : MLA1708
+Nombre de la Categoria : MLA-NETWORK_SWITCHES
+******************** PRODUCTO#50 ***********************
+ID Del Vendedor : 179571326
+ID Del Producto : MLA820063375
+Titulo del Producto : Switch Cisco Sb Sg110-24hp 24p Poe No Adm
+ID De La Categoria : MLA1708
+Nombre de la Categoria : MLA-NETWORK_SWITCHES
+*******************************
+Fecha de la Operacion : 15/03/2021 13:06:08
+*******************************
